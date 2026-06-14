@@ -3,7 +3,7 @@ Telegram bot Word (.docx) fayldan savollarni olib, random quiz o‘tkazadi.
 🚀 Nima qiladi?
 Word jadvaldan test savollarni o‘qiydi
 A / B / C / D variantlar beradi
-30 ta savoldan iborat test qiladi
+50 ta savoldan iborat test qiladi
 Har user uchun ball hisoblaydi
 Random savollar chiqaradi
 ⚙️ O‘rnatish
