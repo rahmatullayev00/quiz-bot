@@ -3,8 +3,13 @@ import telebot
 from docx import Document
 
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 TOKEN = os.getenv("BOT_TOKEN")
+print("TOKEN:", TOKEN)
+
 bot = telebot.TeleBot(TOKEN)
 
 # =========================
